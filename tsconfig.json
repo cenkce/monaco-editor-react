@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "baseUrl": "src",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "jsx": "react",
+    "outDir": "lib",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "declaration": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitThis": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "target": "ES5"
+  },
+  "include": ["src"]
+}
