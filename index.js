@@ -1,1 +1,3 @@
-export { MonacoEditor } from "./lib/MonacoEditor";
+const { MonacoEditor } = require("./lib/MonacoEditor");
+
+exports.MonacoEditor = MonacoEditor;
