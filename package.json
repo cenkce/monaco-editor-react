@@ -1,6 +1,6 @@
 {
   "name": "@cenkce/monaco-editor-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simplest MonacoEditor integration for React",
   "main": "index.js",
   "scripts": {
